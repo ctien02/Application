@@ -13,7 +13,7 @@
 <main>
   <section class="personal-info">
     <div class="avatar">
-      <img class="avatar-img" src="https://randomuser.me/api/portraits/women/17.jpg" alt="">
+      <img class="avatar-img" src="#" alt="">
     </div>
     <h1 class="name">
       Kristina Adams
